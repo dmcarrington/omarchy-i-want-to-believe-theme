@@ -22,6 +22,7 @@ omarchy theme set i-want-to-believe
 - `icons.theme` — `Yaru-prussiangreen` icons.
 - `backgrounds/` — four 3840px wallpapers: two graded rain-forest photographs, the Omarchy wordmark, and a path-traced office scene. Cycle them with `omarchy theme bg next`.
 - `preview.jpg` — the theme picker preview.
+- `unlock.png`, `preview-unlock.png` — the boot and login screen logo: the Omarchy wordmark in pale green-white with a phosphor-green glow, carrying the same film grain and mild TV static as the wordmark wallpaper. Pick it under Style → Unlock.
 
 Omarchy generates the Hyprland, terminal, editor, and shell files from `colors.toml`. The repository ships no Lua, terminal configs, or `vscode.json`, so a Git-installed copy looks the same as the original.
 
