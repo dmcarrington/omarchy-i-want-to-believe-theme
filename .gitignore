@@ -1,0 +1,7 @@
+# Scripts used to prepare the wallpapers (not part of the theme)
+*.sh
+*.py
+
+# Source photographs and work-in-progress images
+*.JPG
+office-night-pixel.png

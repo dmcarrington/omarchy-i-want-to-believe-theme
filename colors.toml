@@ -1,0 +1,37 @@
+# I Want To Believe — spruce shadow, rain-slick asphalt, and the light of a distant UFO
+# hovering over a fir line. Cold teal truth, amber flashlight beam, wet moss.
+
+mode = "dark"
+
+accent = "#6fb3a4"
+selection = "#233c37"
+muted = "#57736b"
+
+background = "#111715"
+dark_background = "#0c1110"
+darker_background = "#070b0a"
+lighter_background = "#1e2a26"
+
+foreground = "#c5d0c9"
+dark_foreground = "#7f918a"
+light_foreground = "#d8e3dc"
+bright_foreground = "#eef5ef"
+cursor = "#d9e2d6"
+
+red = "#cf7368"        # the red of an unclassified FBI folder
+yellow = "#d8bd84"     # Mulder's flashlight beam, seen through rain
+orange = "#c9885f"     # Scully's auburn, washed by overcast light
+green = "#83b583"      # thick carpet of forest moss
+cyan = "#71bfb2"       # cold rain on grey-green asphalt
+blue = "#7ba3bd"       # steel-blue storm sky over the treeline
+magenta = "#ab92b4"    # bruised dusk purple, just past midnight
+brown = "#6e5f4f"      # wet Douglas fir bark
+
+bright_red = "#e09686"
+bright_yellow = "#ecd6a4"
+bright_green = "#9ecf9a"
+bright_cyan = "#8fd6c8"
+bright_blue = "#a3c4d8"
+bright_magenta = "#c6aecb"
+
+hyprland_active_border = "rgb(6fb3a4) rgb(5e86a4) 45deg"
