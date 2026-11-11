@@ -20,7 +20,7 @@ omarchy theme set i-want-to-believe
 
 - `colors.toml` — the full palette: deep spruce background, fog-grey text, an overcast teal accent, and an active window border that fades from rain teal into steel storm blue.
 - `icons.theme` — `Yaru-prussiangreen` icons.
-- `backgrounds/` — four 3840px wallpapers: two graded rain-forest photographs, the Omarchy wordmark, and a path-traced office scene. Cycle them with `omarchy theme bg next`.
+- `backgrounds/` — five 3840px wallpapers: two graded rain-forest photographs, the Omarchy wordmark, a path-traced office scene, and a generated Mulder-style basement office. Cycle them with `omarchy theme bg next`.
 - `preview.jpg` — the theme picker preview.
 - `unlock.png`, `preview-unlock.png` — the boot and login screen logo: the Omarchy wordmark in pale green-white with a phosphor-green glow, carrying the same film grain and mild TV static as the wordmark wallpaper. Pick it under Style → Unlock.
 - `shell.toml` — Omarchy shell surfaces, rendered from the palette, with a lock screen to match: a near-black password card, a quiet spruce border at rest, rain teal while typing, and red on a wrong password.
@@ -55,5 +55,8 @@ The forest wallpapers were photographed in Pacific Northwest rain forest, then d
 | --- | --- |
 | ![Damp road](backgrounds/1-damp-road.jpg) | ![Moss grove](backgrounds/2-moss-grove.jpg) |
 | ![Omarchy](backgrounds/3-omarchy.jpg) | ![Office night](backgrounds/4-office-night.jpg) |
+| ![X-Files office](backgrounds/5-x-files-office.jpg) | |
+
+`5-x-files-office.jpg` is Mulder's basement rendered with Z-Image-Turbo on a local V100: a bare concrete sub-level with a venetian-blind window, a beige CRT, and a corkboard wired with red string. The "I WANT TO BELIEVE" poster and the twelve pinned photos (UFOs, Bigfoot, a winged creature, a zoo ape, a desert crash) were composited separately in real typography, because diffusion models cannot render legible text and invent colourful modern-looking "photos" that break the period.
 
 *The shadows were where... the secrets kept themselves, and the rain erased the evidence.*
